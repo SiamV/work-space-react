@@ -7,7 +7,6 @@ import Preloader from './components/utiles/Preloader/Preloader.js'
 const NavBar = React.lazy(() => import('./components/NavBar'));
 const ProjectSerach = React.lazy(() => import('./components/ProjectSearch/ProjectSerach'));
 
-
 function App() {
   return (
     <div className="App">
